@@ -55,3 +55,4 @@ This project was built to strengthen understanding of React fundamentals, especi
 
 You can view the source code here:
 https://github.com/vera-voissem/react-tic-tac-toe
+Live Demo: https://react-tic-tac-toe-three-brown.vercel.app/
