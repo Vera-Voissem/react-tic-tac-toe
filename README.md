@@ -6,6 +6,10 @@ This project focuses on understanding React state management and component archi
 
 ---
 
+## Preview
+
+![Game Preview](game-preview.png)
+
 ## 🚀 Features
 
 - Move history (time travel)
